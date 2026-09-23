@@ -1,0 +1,6 @@
+{
+  "name": "HookMetrics - Video Ad Hook & Creative Fatigue Engine",
+  "description": "The Google Analytics for Ad Creatives that automatically breaks down short-form video ads frame-by-frame, identifies winning opening hooks, and alerts media buyers before creative fatigue destroys campaign ROAS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
